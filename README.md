@@ -4,3 +4,5 @@
 <img width="874" alt="merge1" src="https://github.com/eesha-d/ECE444-F2023-Assignment1/assets/71955298/8305fac6-05a2-42a6-b908-6bcc22ec3994">
 
 <img width="853" alt="merge2" src="https://github.com/eesha-d/ECE444-F2023-Assignment1/assets/71955298/88cbb9c0-5090-4910-b017-fa4ad93dfce3">
+
+<img width="484" alt="utils" src="https://github.com/eesha-d/ECE444-F2023-Assignment1/assets/71955298/457b5528-4a85-4c71-a25e-7401aeb45512">
