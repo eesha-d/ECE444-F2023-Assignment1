@@ -16,4 +16,4 @@ Commands:
 <img width="554" alt="git rebase rebase" src="https://github.com/eesha-d/ECE444-F2023-Assignment1/assets/71955298/6adb6c8f-87c6-4491-b609-f3980c77662a">
 
 
-
+NOTE: merge for activity 2 is a separate screenshot (the png file in my repo), since it didn't say to put in the README
